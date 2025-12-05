@@ -49,16 +49,18 @@ I'm an AI/ML Engineer passionate about building intelligent systems that solve r
 
 ## 📊 Key Achievements
 
-```python
-achievements = {
-    "Fraud Detection Improvement": "20%",
-    "Forecasting Error Reduction": "15%",
-    "Sentiment Analysis Accuracy": "92%",
-    "Model Size Reduction (QLoRA)": "73%",
-    "Face Recognition Accuracy": "90%",
-    "NMT Translation Accuracy": "80%"
-}
-```
+<div align="center">
+
+| 🎯 Metric | 📈 Achievement |
+|-----------|----------------|
+| **Fraud Detection Improvement** | 20% ⬆️ |
+| **Forecasting Error Reduction** | 15% ⬇️ |
+| **Sentiment Analysis Accuracy** | 92% ✅ |
+| **Model Size Reduction (QLoRA)** | 73% 🔽 |
+| **Face Recognition Accuracy** | 90% ✅ |
+| **NMT Translation Accuracy** | 80% ✅ |
+
+</div>
 
 ---
 
