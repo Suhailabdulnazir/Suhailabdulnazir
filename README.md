@@ -66,32 +66,32 @@ I'm an AI/ML Engineer passionate about building intelligent systems that solve r
 
 ## 🔥 Featured Projects
 
-### 🤖 [Neural Machine Translation (LSTM + Attention)](link-to-repo)
+### 🤖 [Neural Machine Translation (LSTM + Attention)](https://github.com/Suhailabdulnazir/neural-machine-translation)
 Built an English-to-Hindi translation model from scratch achieving **80% accuracy** on benchmark datasets.
 - **Tech:** PyTorch, LSTM, Attention Mechanisms
 - **Impact:** Real-time translation with custom attention visualization
 
-### 🧠 [YouTube Script Generator (Gemma-2 Fine-tuning)](link-to-repo)
+### 🧠 [YouTube Script Generator (Gemma-2 Fine-tuning)](https://github.com/Suhailabdulnazir/youtube-script-generator)
 Fine-tuned Gemma-2 transformer on 924K tokens using QLoRA, reducing model size by **73%** while maintaining **96% coherence**.
 - **Tech:** Transformers, QLoRA, 4-bit Quantization
 - **Innovation:** Efficient deployment on single T4 GPU
 
-### 😊 [Sentiment Analysis Engine](link-to-repo)
+### 😊 [Sentiment Analysis Engine](https://github.com/Suhailabdulnazir/sentiment-analysis-bert)
 BERT-based sentiment analyzer achieving **92% accuracy** on IMDb reviews with real-time inference.
 - **Tech:** BERT, Hugging Face, Python
 - **Performance:** 8% improvement over SVM baseline
 
-### 🎨 [Conditional GAN Image Generator](link-to-repo)
+### 🎨 [Conditional GAN Image Generator](https://github.com/Suhailabdulnazir/conditional-gan-image-generation)
 Engineered conditional GAN for high-fidelity image generation with **15% FID score improvement** over baseline.
 - **Tech:** GANs, PyTorch, CIFAR-10
 - **Optimization:** Reduced mode collapse through adversarial loss tuning
 
-### 📈 [Stock Price Predictor (LSTM)](link-to-repo)
+### 📈 [Stock Price Predictor (LSTM)](https://github.com/Suhailabdulnazir/stock-price-prediction-lstm)
 Time-series forecasting model with **12% improvement** in directional accuracy over ARIMA baselines.
 - **Tech:** LSTM, RNNs, Time Series Analysis
 - **Validation:** Backtesting on S&P 500 indices
 
-### 🏥 [Medical Diagnosis CNN](link-to-repo)
+### 🏥 [Medical Diagnosis CNN](https://github.com/Suhailabdulnazir/medical-diagnosis-cnn)
 ResNet-based chest X-ray classifier for pneumonia detection with **89% accuracy**.
 - **Tech:** CNN, Transfer Learning, PyTorch
 - **Explainability:** Feature map visualization for stakeholder trust
@@ -101,12 +101,17 @@ ResNet-based chest X-ray classifier for pneumonia detection with **89% accuracy*
 ## 📈 GitHub Stats
 
 <div align="center">
+
+<a href="https://github.com/Suhailabdulnazir">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Suhailabdulnazir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhailabdulnazir&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
+
+<div align="center">
   
-![Suhail's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suhailabdulnazir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suhailabdulnazir&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Suhailabdulnazir&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Suhailabdulnazir&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
